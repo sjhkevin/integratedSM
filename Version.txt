@@ -1,0 +1,7 @@
+app_version=1.0.0
+fw_version=2.0.0
+snd_version=3.0.0
+banner_image=img_20230801_120101.png
+
+[Revision]
+2023-08-01 통합스마트모듈 - 차종: 카니발2022,2023
